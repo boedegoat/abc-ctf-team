@@ -23,11 +23,9 @@
             "id": "9dc47016a677fe96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021204209.png"
               }
             }
           }
@@ -82,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "4345e01c838bfae1",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021204209.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021204209.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021204209.png"
               }
             }
           },
@@ -169,8 +167,8 @@
   },
   "active": "62b34696eef50f7c",
   "lastOpenFiles": [
-    "writeups/forensics/README.md",
     "README.md",
+    "writeups/forensics/README.md",
     "writeups/web/README.md",
     "writeups/forensics",
     "writeups/web",
@@ -189,11 +187,11 @@
     "r.md",
     "Foren/Image file scenarios/Matryoshka-wu.md",
     "Foren/Image file scenarios/information-wu.md",
-    "Pasted image 20231021204209.png",
-    "Pasted image 20231021203323.png",
-    "Pasted image 20231021203123.png",
-    "Pasted image 20231021202709.png",
-    "Pasted image 20231021202450.png",
-    "Pasted image 20231021202319.png"
+    "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021204209.png",
+    "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021203323.png",
+    "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021203123.png",
+    "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021202709.png",
+    "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021202450.png",
+    "writeups/forensics/scenario/Image file scenarios/Pasted image 20231021202319.png"
   ]
 }
