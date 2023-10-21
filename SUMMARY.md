@@ -5,6 +5,7 @@
   * [Forensics writeups](writeups/forensics/README.md)
     * [scenario](writeups/forensics/scenario/README.md)
       * [Image file scenarios](<writeups/forensics/scenario/Image file scenarios/README.md>)
+        * [Enhance!](writeups/forensics/scenario/image-file-scenarios/enhance.md)
         * [advanced-potion-making-wu](writeups/forensics/scenario/image-file-scenarios/advanced-potion-making-wu.md)
         * [Glory of the Garden-wu](writeups/forensics/scenario/image-file-scenarios/glory-of-the-garden-wu.md)
         * [Matryoshka-wu](<writeups/forensics/scenario/Image file scenarios/Matryoshka-wu.md>)
