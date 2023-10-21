@@ -12,4 +12,6 @@
         * [information-wu](<writeups/forensics/scenario/Image file scenarios/information-wu.md>)
         * [tunn3l v1s10n-wu](<writeups/forensics/scenario/Image file scenarios/tunn3l v1s10n-wu.md>)
   * [Web writeups](writeups/web/README.md)
+    * [XXE (XML external entity injection)](writeups/web/xxe-xml-external-entity-injection/README.md)
+      * [SOAP](writeups/web/xxe-xml-external-entity-injection/soap.md)
     * [GET aHead](writeups/web/get-ahead.md)

@@ -8,7 +8,7 @@ description: 'Author: Bhremada Fevreano'
 
 first we need to open the given website link: [http://mercury.picoctf.net:45028/](http://mercury.picoctf.net:45028/)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nothing interesting here, that two buttons are just for changing the website background color. Let's use burpsuite to intercept the http request.
 
@@ -30,4 +30,4 @@ If you look at there, there is a HTTP method called HEAD, and if you haven't not
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-And that's it, we got the flag `picoCTF{r3j3ct_th3_du4l1ty_775f2530}`
+🎉 And that's it, we got the flag `picoCTF{r3j3ct_th3_du4l1ty_775f2530}`
