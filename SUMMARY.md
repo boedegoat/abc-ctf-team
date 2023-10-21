@@ -1,7 +1,7 @@
 # Table of contents
 
 * [ABC CTF Team](README.md)
-* [writeups](writeups/README.md)
+* [Writeups](writeups/README.md)
   * [Forensics writeups](writeups/forensics/README.md)
     * [scenario](writeups/forensics/scenario/README.md)
       * [Image file scenarios](<writeups/forensics/scenario/Image file scenarios/README.md>)
@@ -15,3 +15,4 @@
     * [XXE (XML external entity injection)](writeups/web/xxe-xml-external-entity-injection/README.md)
       * [SOAP](writeups/web/xxe-xml-external-entity-injection/soap.md)
     * [GET aHead](writeups/web/get-ahead.md)
+    * [Some Assembly Required 1](writeups/web/some-assembly-required-1.md)
