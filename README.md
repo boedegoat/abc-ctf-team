@@ -1,1 +1,1 @@
-# writeup-abc
+# ABC CTF Team
