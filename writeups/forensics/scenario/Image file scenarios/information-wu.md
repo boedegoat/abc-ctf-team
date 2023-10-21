@@ -1,3 +1,7 @@
+---
+description: 'Creator: Ey3s'
+---
+
 # information-wu
 
 Files can always be changed in a secret way. Can you find the flag? [cat.jpg](https://mercury.picoctf.net/static/e5825f58ef798fdd1af3f6013592a971/cat.jpg) wu: first i wanted to find what file it is
