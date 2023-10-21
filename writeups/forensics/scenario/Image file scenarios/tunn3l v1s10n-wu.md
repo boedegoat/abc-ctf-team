@@ -32,3 +32,5 @@ now we can see the images true max hight and width now all we need to do to bypa
 after that the image will turn out like this which reveals the flag!
 
 <figure><img src="../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+flag: picoCTF{qui1t3\_a\_v13w\_2020}

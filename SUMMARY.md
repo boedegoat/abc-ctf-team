@@ -5,6 +5,7 @@
   * [Forensics writeups](writeups/forensics/README.md)
     * [scenario](writeups/forensics/scenario/README.md)
       * [Image file scenarios](<writeups/forensics/scenario/Image file scenarios/README.md>)
+        * [Glory of the Garden-wu](writeups/forensics/scenario/image-file-scenarios/glory-of-the-garden-wu.md)
         * [Matryoshka-wu](<writeups/forensics/scenario/Image file scenarios/Matryoshka-wu.md>)
         * [information-wu](<writeups/forensics/scenario/Image file scenarios/information-wu.md>)
         * [tunn3l v1s10n-wu](<writeups/forensics/scenario/Image file scenarios/tunn3l v1s10n-wu.md>)
