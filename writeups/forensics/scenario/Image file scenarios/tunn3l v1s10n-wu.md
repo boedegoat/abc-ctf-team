@@ -10,7 +10,7 @@ tbh i got a little confused on this one so i looked at the hint which says "Weir
 
 so i opened hex editor (ps: im gonna use Hxd as my main hex editor for this wu)
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 as you can see the in the decoded text the header is a bmp file's and i felt like the header needs to be worked on. and since i dont know where to start why not compare it with a fixed file so i replaced  it all and the hxd file should look like this
 
