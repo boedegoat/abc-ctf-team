@@ -2,7 +2,7 @@
 description: 'Author: Ey3s'
 ---
 
-# Enhance!
+# Enhance!-wu
 
 Download this image file and find the flag.
 
