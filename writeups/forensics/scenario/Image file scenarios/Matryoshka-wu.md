@@ -4,7 +4,7 @@ Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside 
 
 we can instantly use binwalk on this with the matryoshka flag (-M)
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 at the last extract we can see the end point of it that has a flag.txt in it so all we can do is just cd into the directories and open the text file and at last we will have the flag
 

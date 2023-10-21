@@ -9,4 +9,4 @@
         * [information-wu](<writeups/forensics/scenario/Image file scenarios/information-wu.md>)
         * [tunn3l v1s10n-wu](<writeups/forensics/scenario/Image file scenarios/tunn3l v1s10n-wu.md>)
   * [Web writeups](writeups/web/README.md)
-    * [Get aHead](writeups/web/get-ahead.md)
+    * [GET aHead](writeups/web/get-ahead.md)
