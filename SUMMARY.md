@@ -1,6 +1,9 @@
 # Table of contents
 
 * [ABC CTF Team](README.md)
+* [Cheatsheets](cheatsheets/README.md)
+  * [grep](cheatsheets/grep.md)
+  * [wget](cheatsheets/wget.md)
 * [Writeups](writeups/README.md)
   * [Forensics writeups](writeups/forensics/README.md)
     * [scenario](writeups/forensics/scenario/README.md)
