@@ -4,7 +4,7 @@ description: 'Author: Bhremada Fevreano'
 
 # SOAP
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://play.picoctf.org/practice/challenge/376?category=1&#x26;page=2">https://play.picoctf.org/practice/challenge/376?category=1&#x26;page=2</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p><a href="https://play.picoctf.org/practice/challenge/376?category=1&#x26;page=2">https://play.picoctf.org/practice/challenge/376?category=1&#x26;page=2</a></p></figcaption></figure>
 
 From opening the sources code in firefox debugger, I got two javascript files
 
