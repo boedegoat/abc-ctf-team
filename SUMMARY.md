@@ -2,8 +2,11 @@
 
 * [ABC CTF Team](README.md)
 * [Cheatsheets](cheatsheets/README.md)
-  * [grep](cheatsheets/grep.md)
-  * [wget](cheatsheets/wget.md)
+  * [Vulnerabilities](cheatsheets/vulnerabilities/README.md)
+    * [SQL Injection](cheatsheets/vulnerabilities/sql-injection.md)
+  * [Linux commands](cheatsheets/linux-commands/README.md)
+    * [grep](cheatsheets/linux-commands/grep.md)
+    * [wget](cheatsheets/linux-commands/wget.md)
 * [Writeups](writeups/README.md)
   * [Forensics writeups](writeups/forensics/README.md)
     * [scenario](writeups/forensics/scenario/README.md)
